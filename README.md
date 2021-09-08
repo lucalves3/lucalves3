@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Alves
+## Olá! Eu sou o Lucas Alves
  <div>
   <a href="https://github.com/lucalves3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucalves3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
