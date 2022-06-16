@@ -15,9 +15,15 @@
   <img align="right" alt="Lucas-banda-favorita" height="70px" src="https://media.giphy.com/media/sdOTFZPe7WFhu/giphy.gif?cid=ecf05e47dhb3eb7asnc7lovtf8mqq96ldyy5fk37fjrdjzrz&rid=giphy.gif&ct=g">
 </div>
  <hr>
+ <div>
+  <h1>Contato:</h1>
+  <p><strong>Email:</strong> lucalves.rodrigues@gmail.com</p>
+  <p><strong>Celular:</strong> +55(88) 9 8809-1521</p>
+ </div>
+ <hr>
 <div>
-  <a href="https://www.instagram.com/eng.lucasalves94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kariricast" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_odev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--  	<a href="https://www.twitch.tv/kariricast" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!---<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --->
  <!--- <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> --->
   <a href="https://www.linkedin.com/in/franciscolucasoliveiraalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
